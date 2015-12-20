@@ -34,7 +34,7 @@ a:hover {
 .nav {
   display: flex;
   justify-content: space-around;
-  font-weight: 550;
+  font-weight: normal;
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/8-bit-la landscape.jpg') no-repeat bottom center ;
+  background: url('images/8-bit-la-landscape.jpg') no-repeat bottom center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
